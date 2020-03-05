@@ -13,39 +13,35 @@ https://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-wareho
    그리고 로컬 파일 시스템의 파일을 지우기도 가능함  
    https://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud/whats-new&id=CSWHU-GUID-930632E1-B7BF-4ECA-8F78-5E5A205C0865
 
----
-
 * May 2018
----
-- Oracle Cloud Infrastructure Object Storage Credentials
+   - Oracle Cloud Infrastructure Object Storage Credentials  
 Swift 패스워드의 이름은 지금부터 Auto token이라고 함. Swift password라는 이름은 모두 Auth token으로 변경함.
 
 * June 2018
----
-- New management interfaces
-지금부터 native OCI위에 프로비저닝 됨.
-ADW 인스턴스 관리를 쉽게만들기 위해 정렬, 필터링 기능을 포함한 추가적인 기능과 함께 이해하기 쉬운 유저 인터페이스를 제공함
+   - New management interfaces  
+지금부터 native OCI위에 프로비저닝 됨  
+ADW 인스턴스 관리를 쉽게만들기 위해 정렬, 필터링 기능을 포함한 추가적인 기능과 함께 이해하기 쉬운 유저 인터페이스를 제공함  
 https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/index.html
 
-- Better authorization management 
-사용자 그룹이나 타입에 따른 접근성 제어와 컴파트먼트를 사용하는 IAM을 이용해서 ADW 인스턴스에 대한 보다 나은 구성과 고립을 할 수 있음.
+   - Better authorization management  
+사용자 그룹이나 타입에 따른 접근성 제어와 컴파트먼트를 사용하는 IAM을 이용해서 ADW 인스턴스에 대한 보다 나은 구성과 고립을 할 수 있음  
 http://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud&id=oci-iam
 
-- Built-in auditing
-OCI Audit service가 ADW API의 JSON 포맷으로 된 로그 이벤트를 사용함
-사용자는 이것을 로그 분석기, audit 서비스 콘솔, audit api, java sdk 등을 사용해서 확인, 복사, 분석 등을 할 수 있음
-http://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud&id=oci-audit-service
+   - Built-in auditing
+OCI Audit service가 ADW API의 JSON 포맷으로 된 로그 이벤트를 사용함  
+사용자는 이것을 로그 분석기, audit 서비스 콘솔, audit api, java sdk 등을 사용해서 확인, 복사, 분석 등을 할 수 있음  
+http://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud&id=oci-audit-service  
 
-- Availability of the Phoenix region
+   - Availability of the Phoenix region  
 기존 애쉬번과 프랑크푸르트에 피닉스 리전을 추가
 
-- User Assistance changes
-도큐먼트, 비디오, 사용예제가 업데이트 됨
-클라우드 포럼을 포함한 관련된 리소스를 보여주는 페이지가 추가됨
+   - User Assistance changes  
+도큐먼트, 비디오, 사용예제가 업데이트 됨  
+클라우드 포럼을 포함한 관련된 리소스를 보여주는 페이지가 추가됨  
 https://cloudcustomerconnect.oracle.com/resources/32a53f8587/summary
 
-- Idle timeouts in database services
-Idle 세션에 대해 5분의 timeout 설정이 적용됨
+   - Idle timeouts in database services  
+Idle 세션에 대해 5분의 timeout 설정이 적용됨  
 https://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud/whats-new&id=CSWHU-GUID-80E464A7-8ED4-45BB-A7D6-E201DD4107B7
 
 * July 2018
