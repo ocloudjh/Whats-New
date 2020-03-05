@@ -45,54 +45,49 @@ Idle 세션에 대해 5분의 timeout 설정이 적용됨
 https://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud/whats-new&id=CSWHU-GUID-80E464A7-8ED4-45BB-A7D6-E201DD4107B7
 
 * July 2018
----
-- SQL Developer 18.2.0 and later without Keystore Password field for connections
+   - SQL Developer 18.2.0 and later without Keystore Password field for connections
 SQL Developer 18.2.0 또는 그 이상 버전을 사용한 ADW 접속 시, 더 이상 keystore 패스워드가 필요하지 않음
 
 * August 2018
----
-- The Oracle Cloud Infrastructure page has a new option Autonomous Transaction Processing 
+   - The Oracle Cloud Infrastructure page has a new option Autonomous Transaction Processing 
 Autonomous Transaction Processing 서비스가 추가됨
 
 * September 2018
----
-- Table compression methods
-ADW에 Hybrid Columnar Compression 외에도 모든 유형의 테이블 압축 유형을 사용 가능함
+   - Table compression methods  
+ADW에 Hybrid Columnar Compression 외에도 모든 유형의 테이블 압축 유형을 사용 가능함  
 https://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud/whats-new&id=CSWHU-GUID-E2E72DF9-00A3-47EE-BC39-22509E0FF8BE
 
-- Partitioned tables, indexes, and materialized views
-사용자는 이제 파티션 테이블, 인덱스, Mview를 생성할 수 있음
+   - Partitioned tables, indexes, and materialized views  
+사용자는 이제 파티션 테이블, 인덱스, Mview를 생성할 수 있음  
 https://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud/whats-new&id=CSWHU-GUID-4D0364B5-8CA1-4A38-83AE-05B1C9487465
 
-- Idle timeout changes
-Idle 타임아웃 시간이 60분으로 변경됨
+   - Idle timeout changes  
+Idle 타임아웃 시간이 60분으로 변경됨  
 https://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud/whats-new&id=CSWHU-GUID-80E464A7-8ED4-45BB-A7D6-E201DD4107B7
 
 * October 2018
-- Oracle Cloud Infrastructure Console changes
-새로운 레이아웃과 버튼을 배치하고 DB Connection에 사용하는 client credentials를 쉽게 다운로드 할 수 있도록 변경함
+   - Oracle Cloud Infrastructure Console changes  
+새로운 레이아웃과 버튼을 배치하고 DB Connection에 사용하는 client credentials를 쉽게 다운로드 할 수 있도록 변경함  
 
-- Documentation changes
+   - Documentation changes   
 ADW Documentation가 사용자 Role Base로 변경됨
 
-* January 2019
----
-- Access Parquet files in Object Stores
-ADW는 Object 스토리지에 저장되어 있는 parquet 파일에 직접 쿼리하거나 데이터를 불러 올 수 있음
-또한 External parquet 테이블을 오브젝트 스토리지에 생성 가능함
-https://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud/whats-new&id=CSWHU-GUID-55DE445F-50E6-430D-87AB-C8DDC6D9810F
+* January 2019   
+   - Access Parquet files in Object Stores   
+ADW는 Object 스토리지에 저장되어 있는 parquet 파일에 직접 쿼리하거나 데이터를 불러 올 수 있음   
+또한 External parquet 테이블을 오브젝트 스토리지에 생성 가능함   
+https://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud/whats-new&id=CSWHU-GUID-55DE445F-50E6-430D-87AB-C8DDC6D9810F   
 https://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud/whats-new&id=CSWHU-GUID-D23C5CEF-770C-436D-B856-4C6C318FA045
 
 * February 2019
----
-- Application Continuity
-Application Continuity를 활성, 비활성이 가능해짐
-Application Continuity는 실행 중인 작업 중에서 서비스 중단 후 영향을 받는 데이터베이스 세션을 복구함으로써 최종 사용자와 어플리케이션을 마스킹함
-Application Continuity는 어플리케이션 아래에서 복구를 수행하고 이것은 outages를 약간의 지연 실행정도로 보이게 함
+   - Application Continuity   
+Application Continuity를 활성, 비활성이 가능해짐   
+Application Continuity는 실행 중인 작업 중에서 서비스 중단 후 영향을 받는 데이터베이스 세션을 복구함으로써 최종 사용자와 어플리케이션을 마스킹함   
+Application Continuity는 어플리케이션 아래에서 복구를 수행하고 이것은 outages를 약간의 지연 실행정도로 보이게 함   
 https://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud/whats-new&id=CSWHU-GUID-8874CB1D-0B20-461F-91D2-24E2EE4148A3
 
-- Documentation changes
-다른 Oracle Database로의 데이터 이동 챕터가 추가됨
+   - Documentation changes
+다른 Oracle Database로의 데이터 이동 챕터가 추가됨   
 https://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud/whats-new&id=CSWHU-GUID-529CD03E-7983-423B-A5FD-34D8B36831EC
 
 * March 2019
