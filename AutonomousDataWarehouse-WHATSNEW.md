@@ -5,12 +5,12 @@ https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/whats-new/
 * April 2018
    - Microsoft Azure Blob Storage integration  
 데이터 로딩과 외부 데이터에 대한 쿼리를 위해 마이크로소프트 Azure의 Blob Storage를 지원함  
-Azure Blob Storage에 있는 파일에 대해서 데이터 로딩과 쿼리를 실행할 수 있음.
+Azure Blob Storage에 있는 파일에 대해서 데이터 로딩과 쿼리를 실행할 수 있음  
 https://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud/whats-new&id=CSWHU-GUID-07900054-CB65-490A-AF3C-39EF45505802
-   - Manage files on the local file system
-  로컬 파일 시스템을 조회할 수 있음
-   https://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud/whats-new&id=CSWHU-GUID-78F49B25-C072-45E1-BE83-E306ACC998EE
-   그리고 로컬 파일 시스템의 파일을 지우기도 가능함
+   - Manage files on the local file system  
+   로컬 파일 시스템을 조회할 수 있음  
+   https://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud/whats-new&id=CSWHU-GUID-78F49B25-C072-45E1-BE83-E306ACC998EE  
+   그리고 로컬 파일 시스템의 파일을 지우기도 가능함  
    https://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud/whats-new&id=CSWHU-GUID-930632E1-B7BF-4ECA-8F78-5E5A205C0865
 
 ---
