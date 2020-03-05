@@ -3,6 +3,7 @@ What's New for Autonomous Data Warehouse
 https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/whats-new/index.html#CSWHN-GUID-F31A86F8-012B-4235-A0BE-4ABF75164853
 
 * April 2018
+---
 - Microsoft Azure Blob Storage integration 
 데이터 로딩과 외부 데이터에 대한 쿼리를 위해 마이크로소프트 Azure의 Blob Storage를 지원함.
 Azure Blob Storage에 있는 파일에 대해서 데이터 로딩과 쿼리를 실행할 수 있음
@@ -15,10 +16,12 @@ https://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-wareho
 https://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud/whats-new&id=CSWHU-GUID-930632E1-B7BF-4ECA-8F78-5E5A205C0865
 
 * May 2018
+---
 - Oracle Cloud Infrastructure Object Storage Credentials
 Swift 패스워드의 이름은 지금부터 Auto token이라고 함. Swift password라는 이름은 모두 Auth token으로 변경함.
 
 * June 2018
+---
 - New management interfaces
 지금부터 native OCI위에 프로비저닝 됨.
 ADW 인스턴스 관리를 쉽게만들기 위해 정렬, 필터링 기능을 포함한 추가적인 기능과 함께 이해하기 쉬운 유저 인터페이스를 제공함
@@ -46,14 +49,17 @@ Idle 세션에 대해 5분의 timeout 설정이 적용됨
 https://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud/whats-new&id=CSWHU-GUID-80E464A7-8ED4-45BB-A7D6-E201DD4107B7
 
 * July 2018
+---
 - SQL Developer 18.2.0 and later without Keystore Password field for connections
 SQL Developer 18.2.0 또는 그 이상 버전을 사용한 ADW 접속 시, 더 이상 keystore 패스워드가 필요하지 않음
 
 * August 2018
+---
 - The Oracle Cloud Infrastructure page has a new option Autonomous Transaction Processing 
 Autonomous Transaction Processing 서비스가 추가됨
 
 * September 2018
+---
 - Table compression methods
 ADW에 Hybrid Columnar Compression 외에도 모든 유형의 테이블 압축 유형을 사용 가능함
 https://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud/whats-new&id=CSWHU-GUID-E2E72DF9-00A3-47EE-BC39-22509E0FF8BE
@@ -74,6 +80,7 @@ https://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-wareho
 ADW Documentation가 사용자 Role Base로 변경됨
 
 * January 2019
+---
 - Access Parquet files in Object Stores
 ADW는 Object 스토리지에 저장되어 있는 parquet 파일에 직접 쿼리하거나 데이터를 불러 올 수 있음
 또한 External parquet 테이블을 오브젝트 스토리지에 생성 가능함
@@ -81,6 +88,7 @@ https://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-wareho
 https://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud/whats-new&id=CSWHU-GUID-D23C5CEF-770C-436D-B856-4C6C318FA045
 
 * February 2019
+---
 - Application Continuity
 Application Continuity를 활성, 비활성이 가능해짐
 Application Continuity는 실행 중인 작업 중에서 서비스 중단 후 영향을 받는 데이터베이스 세션을 복구함으로써 최종 사용자와 어플리케이션을 마스킹함
@@ -92,6 +100,7 @@ https://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-wareho
 https://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud/whats-new&id=CSWHU-GUID-529CD03E-7983-423B-A5FD-34D8B36831EC
 
 * March 2019
+---
 - Clone Your Database
 ADW는 Full Database 또는 DB Metadata만 사용하는 DB Cloning을 지원함
 https://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud/whats-new&id=CSWHU-GUID-D771796F-5081-4CFB-A7FF-0F893EABD7BC
@@ -118,6 +127,7 @@ https://docs.cloud.oracle.com/iaas/Content/Network/Tasks/servicegateway.htm
 https://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud/whats-new&id=CSWHU-GUID-CEC0CA63-B77F-4D64-B70F-1E8476AE3ED6
 
 * April 2019
+---
 - Support for Network Access Control Lists
 접근 제한을 위한 Network Access Control List(ACL)을 제공함
 ACL을 설정하면 ACL에 등록된 주소에 대해서만 DB 접근을 허용함
@@ -143,6 +153,7 @@ https://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-wareho
 https://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud/whats-new&id=CSWHU-GUID-8FEE49FF-CDEE-4433-B812-0AAABA8DEC7F
 
 * May 2019
+---
 - Support for creating database links
 DBMS_CLOUD_ADMIN.CREATE_DATABASE_LINK를 사용해서 DB Link를 생성할 수 있고 다른 데이터베이스 오브젝트에 접근이 가능해짐
 https://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud/whats-new&id=CSWHU-GUID-28F06977-300F-4599-AD97-2DEF67EF5FEA
@@ -173,6 +184,7 @@ PL/SQL package 뿐만 아니라 서비스 콘솔에서도 CPU/IO share를 조정
 https://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud/whats-new&id=CSWHU-GUID-8FEE49FF-CDEE-4433-B812-0AAABA8DEC7F
 
 * June 2019
+---
 - Application Express (APEX)
 APEX는 확장, 보안 등 세계 표준 기능과 함께 어디서든 배포할 수 있는 기업용 어플리케이션을 위한 low-code 개발 플랫폼임
 각 ADW 인스턴스는 APEX의 독립적인 인스턴스를 포함하고 있음; 이것을 이용해서 멀티 워크스페이스를 만들 수 있음
@@ -197,6 +209,7 @@ ADW는 MS Azure storage에서 Data Pump를 이용한 Import를 지원함
 https://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud/whats-new&id=CSWHU-GUID-30DB1EEA-DB45-49EA-9E97-DF49A9968E24
 
 * July 2019
+---
 - Performance Hub
 OCI 콘솔은 ADW를 위한 Performance Hub를 포함함
 사용자는 퍼포먼스 허브를 사용해 실시간 퍼포먼스와 과거 퍼포먼스 데이터를 확인할 수 있음
@@ -213,12 +226,14 @@ ADW를 다른 OCI Compartment로 이동할 수 있음
 https://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud/whats-new&id=CSWHU-GUID-D3E6A489-D125-4339-9D23-BAE52DFE512E
 
 * August 2019
+---
 - Create Directory and Drop Directory commands
 DATA_PUMP_DIR 디렉토리를 ADW에서 사용 가능함
 CREATE DIRECTORY 명렬을 사용해 추가 디렉토리를 생성할 수 있고, DROP DIRECTORY를 사용해 디렉토리를 삭제할 수 있음
 https://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud/whats-new&id=CSWHU-GUID-5EC418F4-2084-4884-8D1E-BACA56F143F9
 
 * September 2019
+---
 - Always Free Autonomous Database 
 Cloud Credit을 소모하지 않고 제한된 수의 무료 Autonomous Database를 생성하는 옵션을 제공함
 무료 Autonomous Database는 계정이 Trial 기간이거나, UC 계약 중에 관계없이 항상 무료로 제공됨
@@ -236,6 +251,7 @@ Work Requests는 Database lifecycle 관리 명령을 추적하여 진행 정도�
 https://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud/whats-new&id=CSWHU-GUID-32773B4E-B918-4F19-87FC-C44C2EE63E8C
 
 * October 2019
+---
 - Preview Version for Autonomous Database
 오라클은 주기적으로 ADW의 미리보기 버전을 제공합니다. 이것은 어플리케이션 테스트를 할 수 있고 또한 새로운 버전의 신기능에 익숙해지도록 합니다.
 https://docs.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud/whats-new&id=CSWHU-GUID-D1288B3D-6926-4244-B65A-E9E1FF4DAE5A
@@ -257,6 +273,7 @@ Number 형식과 Numeric Character 형식은 ADW에서 Numeric String으로 자�
 https://docs.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud/whats-new&id=CSWHU-GUID-08C44CDA-7C81-481A-BA0A-F7346473B703
 
 * November 2019
+---
 - Use ACLs to specify Oracle Cloud Infrastructure VCNs 
 ADW에 연결한 OCI VCN을 통해서 ACL을 사용할 수 있음
 https://docs.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud/whats-new&id=CSWHU-GUID-B6389402-3F4D-45A2-A4DE-EAF1B31D8E50
@@ -286,6 +303,7 @@ DBMS_CLOUD.LIST_FILES, DBMS_CLOUD.LIST_OBJECTS을 사용해서 추가적은 파�
 https://docs.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud/whats-new&id=CSWHU-GUID-78F49B25-C072-45E1-BE83-E306ACC998EE
 
 * December 2019
+---
 - Support for UTL_HTTP and UTL_SMTP PL/SQL Packages with restrictions 
 ADW는 UTL_HTTP, UTL_SMTP, DBMS_NETWORK_ACL_ADMIN을 일부 제한 사항과 함께 제공함
 https://docs.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud/whats-new&id=CSWHU-GUID-829A7D07-1EA4-4F59-AA60-F780FABAFDEC
@@ -309,6 +327,7 @@ ADW 내에 보호 대상 데이터에 대해 Oracle Data Safe 기능을 제공�
 https://docs.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud/whats-new&id=CSWHU-GUID-2D36B6A7-BA83-4F75-A46C-51E419D4D3AA
 
 * January 2020
+---
 - Clone from a backup
 Backup 리스트 또는 Point-in-time Timestamp로부터 Backup의 복제본을 생성할 수 있음
 https://docs.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud/whats-new&id=CSWHU-GUID-20D2D970-0CB4-472F-BF89-1EE769BFB5E8
