@@ -3,8 +3,8 @@ What's New for Autonomous Data Warehouse
 https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/whats-new/index.html#CSWHN-GUID-F31A86F8-012B-4235-A0BE-4ABF75164853
 
 * April 2018
-   - Microsoft Azure Blob Storage integration 
-   데이터 로딩과 외부 데이터에 대한 쿼리를 위해 마이크로소프트 Azure의 Blob Storage를 지원함.
+   - Microsoft Azure Blob Storage integration  
+데이터 로딩과 외부 데이터에 대한 쿼리를 위해 마이크로소프트 Azure의 Blob Storage를 지원함  
 Azure Blob Storage에 있는 파일에 대해서 데이터 로딩과 쿼리를 실행할 수 있음.
 https://www.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/autonomous-data-warehouse-cloud/whats-new&id=CSWHU-GUID-07900054-CB65-490A-AF3C-39EF45505802
    - Manage files on the local file system
